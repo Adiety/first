@@ -72,7 +72,7 @@ struct node
       while(cont=='y')
       {
        cout<<"Your choice :";
-       cin>>choice;
+       cin>>choice;//enter the value 
       switch(choice)
       {
       case 1:
