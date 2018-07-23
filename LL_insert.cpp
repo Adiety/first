@@ -90,7 +90,7 @@ struct node
       case 3:
         {
             cout<<"Insertion at the start of link list"<<endl;
-            insertNodeStart();
+            insertNodeStart();//hi
             break;
         }
       }
